@@ -1,12 +1,37 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📝 Task Manager App
 
-Currently, two official plugins are available:
+A modern and user-friendly **Task Manager App** built using **React.js**.  
+It helps you manage your tasks efficiently with features like:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Task creation with details (title, description, date, priority)
+- 🌗 Light/Dark theme toggle
+- 🗂️ Filter by All, Completed, or Incomplete
+- 💾 Data stored in `localStorage`
+- ☑️ Strikethrough effect for completed tasks
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌟 Features
+
+- **Add Task** with custom details
+- **Mark Complete** with visual strikethrough
+- **Delete Task** with one click
+- **Filter Tasks**: View All / Completed / Incomplete
+- **Dark & Light Mode** toggle
+- **Data Persistence** via `localStorage`
+- Fully **Responsive Design**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js (useState, useEffect)
+- **Styling**: HTML, CSS
+- **Data Storage**: `localStorage`
+
+---
+
+
+![Screenshot 2025-03-30 212255](https://github.com/user-attachments/assets/4e6b00a0-cbad-4032-a40b-b306abd46671)
